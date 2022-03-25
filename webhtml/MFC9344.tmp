@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js no-svg"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/eujm2ybf/dnt94.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/d495ildy/dnt94.css" media="all"/>
+<style>
+.wow:first-child {
+visibility: hidden;
+}
+.affix {
+top: 0;
+width: 100%;
+z-index: 5 !important;
+}
+.affix + .container-fluid {
+padding-top: 30px;
+}
+.tabs-section {
+z-index: 1;
+}
+.grecaptcha-badge {
+display: none !important;
+}
+</style>
+<title>Futurism Technologies-Enterprise IT Solutions | Transforming Digitally</title>
+<style type="text/css">
+</style>
+
+
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="wp-content/uploads/2019/01/logo-150x66.png" sizes="32x32" />
+
+<style>
+p.subtitle{
+display: block;
+font-size: 26px;
+font-family: "robotolight";
+color: black;
+}
+</style>
+</head>
+
+
+</html>
+<script>
+$(window).on('load', function () { 
+$('#status').fadeOut(); 
+$('#preloader').delay(1).fadeOut('slow');  
+$('body').delay(1).css({
+'overflow': 'visible'
+});
+$(function () {
+$(".ft-banner .rslides").responsiveSlides({
+auto: false, 
+speed: 4000, 
+timeout: 5000, 
+pager: false, 
+nav: true, 
+});
+});
+})
+</script>
